@@ -1,6 +1,7 @@
 # bamtofastq
 ### -- summary
-![[Pasted image 20240413212559.png]]
+
+![Pasted image 20240413212559 1](https://github.com/Alvis-Jiang/Bioinfo_tools/assets/64271338/7a2de0df-151c-4912-af77-d7d1ae6f8f64)
 
 1. Quality control (QC) of input (bam/cram) files (FastQC).  
 2. Check if input files are single- or paired-end (Samtools).  
