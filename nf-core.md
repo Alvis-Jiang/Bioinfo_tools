@@ -33,14 +33,12 @@ nextflow run nf-core/bamtofastq --input samplesheet.csv --outdir ./results -prof
 ```
 
 ```
-# Running commend
+# Running shell script
+
+
 #!/bin/bash
 
-  
-
 cd /depot/pbaloni/data/Lab_members/Boyu_Jiang/RNA_Volecity/Fastq_BowmanLab
-
-  
 
 directory='/depot/pbaloni/data/Lab_members/Boyu_Jiang/RNA_Volecity/Fastq_BowmanLab/Input_files'
 
