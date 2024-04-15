@@ -62,6 +62,12 @@ for file in "$directory"/*;do
 
     nextflow run nf-core/bamtofastq --no_stats --max_cpus 128 --max_memory '256.GB' --input "$filepath" --outdir "$output_folder" -profile conda
 
+
+```
+# Troubleshooting
+1. no valid fastqc results for the converted .fastq file, need to run FastQC by myself
+```
+
     echo '-----------------'
 
 done
