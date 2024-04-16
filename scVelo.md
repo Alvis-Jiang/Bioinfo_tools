@@ -18,5 +18,4 @@ kb ref -i index.idx -g t2g.txt -f1 cdna.fa -f2 intron.fa -c1 cdna_t2c.txt -c2 in
 ```
 
 ```
-
-``
+```
